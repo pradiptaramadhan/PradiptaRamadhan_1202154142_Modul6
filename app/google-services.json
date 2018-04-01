@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510390031012",
+    "firebase_url": "https://modul6-ef16d.firebaseio.com",
+    "project_id": "modul6-ef16d",
+    "storage_bucket": "modul6-ef16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510390031012:android:f891af44ea3833be",
+        "android_client_info": {
+          "package_name": "android.example.com.pradiptaramadhan_1202154142_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510390031012-nnn6dith1h7lq44vru2bdikjcf9299ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.pradiptaramadhan_1202154142_modul6",
+            "certificate_hash": "ee5cd5e621ea74f6cc42dc1a5ac67c257c927fda"
+          }
+        },
+        {
+          "client_id": "510390031012-htn9bfig6l17tll2m08f0imenn2df67t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2_eXo99uMCMsXQopwYJ2t4k4xHn18nU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510390031012-htn9bfig6l17tll2m08f0imenn2df67t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
